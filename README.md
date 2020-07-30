@@ -1,1 +1,2 @@
-Algorithm exercise in C.
+Algorithm exercises in C.
+
